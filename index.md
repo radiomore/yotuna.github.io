@@ -22,6 +22,8 @@ It serves three functions:
 
 3. In case of errors or issues with the app, we can use this identifier to analyze and fix problems. This allows us to quickly respond to reported issues and improve the app's quality for specific devices.
 
+---
+
 ## Pricing
 
 **How much does it cost to use the Yotuna app?**
@@ -48,7 +50,9 @@ It costs nothing, no one has paid us for the presence of their internet radio in
 We select radio stations that are popular in a given country and have a publicly available radio stream or a playlist of songs.
 We approach all requests individually. This process may take a few days, but it can also take months.
 
-## upported streaming services
+---
+
+## Supported streaming services
 
 **Why Deezer first?**
 
@@ -57,6 +61,8 @@ Personally, I really like this (Deezer) streaming service for its sound quality,
 **When will x streaming service be available?**
 
 I plan to add at least one integration this year, but for now, I want to refine the current product. I don’t know yet which one will be next, but I’m considering Tidal and Apple Music. I will prepare a survey to gather the opinions of Yotuna app users and make a decision based on that.
+
+---
 
 ## Available Internet Radio Stations
 
@@ -83,6 +89,8 @@ We encourage you to support such radio stations by using their apps if possible 
 Therefore, we will be very pleased if, thanks to our app, you discover an interesting internet radio and support it.
 This is part of our mission.
 
+---
+
 ## Mission of the Yotuna App
 
 **What is the mission of the Yotuna app?**
@@ -91,4 +99,3 @@ We created the Yotuna app with internet radio enthusiasts in mind, who want to h
 Our goal is to provide users with a simple and intuitive tool for discovering and listening to music from around the world.
 To start, we added integration with the Deezer service to allow users to enjoy their favorite tracks and artists in the best (lossless) quality.
 We will also be very pleased if, thanks to our app, you discover interesting internet radio stations and support them.
-
