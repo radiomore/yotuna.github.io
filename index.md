@@ -1,4 +1,4 @@
-# Yotuna FAQ
+# FAQ
 
 ---
 

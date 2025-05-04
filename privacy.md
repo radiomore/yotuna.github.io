@@ -1,4 +1,4 @@
-# Yotuna Privacy Policy
+# Privacy Policy
 
 *Last updated: May 04, 2025*
 
