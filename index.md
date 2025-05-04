@@ -1,4 +1,6 @@
-# FAQ
+# Yotuna FAQ
+
+---
 
 ## Privacy
 
