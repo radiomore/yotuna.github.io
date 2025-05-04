@@ -1,5 +1,3 @@
-# Privacy Policy
-
 *Last updated: May 04, 2025*
 
 At Yotuna, your privacy comes first. Our app is designed to give you access to music without requiring you to share personal data. Below, we explain what data we collect (or rather, what we don’t collect), how we protect it, and what rights you have.
