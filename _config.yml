@@ -38,9 +38,9 @@ author:
 remote_theme: jekyll/minima@d4d779a
 
 # Minima requires the following plugins:
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
@@ -63,7 +63,7 @@ minima:
 #     * solarized-light    Light variant of solarized color scheme.
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
- skin: solarized
+ skin: classic
 #
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
