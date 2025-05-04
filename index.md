@@ -1,5 +1,3 @@
-# Yotuna FAQ
-
 ## Privacy
 
 **How does the Yotuna app protect my privacy?**
