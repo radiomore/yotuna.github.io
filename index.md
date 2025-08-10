@@ -57,7 +57,14 @@ It costs nothing, no one has paid us for the presence of their internet radio in
 We select radio stations that are popular in a given country and have a publicly available radio stream or a playlist of songs.
 We approach all requests individually. This process may take a few days, but it can also take months.
 
----
+**How can I support you?**
+You can support our work through voluntary donations, which
+will help us further develop and maintain the app. 
+
+- [PayPal](https://paypal.me/zenedithPL)
+- [Ko-Fi](https://ko-fi.com/K3K11ABGW5)
+- [Patreon](https://patreon.com/Zenedith)
+
 
 # Supported streaming services
 
