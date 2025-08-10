@@ -60,7 +60,7 @@ We approach all requests individually. This process may take a few days, but it 
 **How can I support you?**
 
 You can support our work through voluntary donations, which
-will help us further develop and maintain the app. 
+will help us further develop and maintain the app and backend services. 
 
 - [PayPal](https://paypal.me/zenedithPL)
 - [Ko-Fi](https://ko-fi.com/K3K11ABGW5)
