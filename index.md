@@ -58,6 +58,7 @@ We select radio stations that are popular in a given country and have a publicly
 We approach all requests individually. This process may take a few days, but it can also take months.
 
 **How can I support you?**
+
 You can support our work through voluntary donations, which
 will help us further develop and maintain the app. 
 
