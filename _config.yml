@@ -1,20 +1,6 @@
 #remote_theme: jekyll/minima
 remote_theme: jekyll/minima@d4d779a
 
-collections:
-  posts:
-    output: false
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
-
-exclude:
-  - "_posts"
-
 title: Yotuna app
 
 author:

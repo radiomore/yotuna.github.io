@@ -1,8 +1,15 @@
-# FAQ
-
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+title: "FAQ"
 ---
 
-## Privacy
+# Privacy
 
 **How does the Yotuna app protect my privacy?**
 
@@ -24,7 +31,7 @@ It serves three functions:
 
 ---
 
-## Pricing
+# Pricing
 
 **How much does it cost to use the Yotuna app?**
 
@@ -52,7 +59,7 @@ We approach all requests individually. This process may take a few days, but it 
 
 ---
 
-## Supported streaming services
+# Supported streaming services
 
 **Why Deezer first?**
 
@@ -64,7 +71,7 @@ I plan to add at least one integration this year, but for now, I want to refine 
 
 ---
 
-## Available Internet Radio Stations
+# Available Internet Radio Stations
 
 **Why is internet radio x not available in the Yotuna app?**
 
@@ -91,7 +98,7 @@ This is part of our mission.
 
 ---
 
-## Mission of the Yotuna App
+# Mission of the Yotuna App
 
 **What is the mission of the Yotuna app?**
 
