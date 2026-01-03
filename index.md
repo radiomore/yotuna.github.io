@@ -66,17 +66,6 @@ will help us further develop and maintain the app and backend services.
 - [Ko-Fi](https://ko-fi.com/K3K11ABGW5)
 - [Patreon](https://patreon.com/Zenedith)
 
-
-# Supported streaming services
-
-**Why Deezer first?**
-
-Personally, I really like this (Deezer) streaming service for its sound quality, variety of music, and affordable price. And no one paid me for this.
-
-**When will x streaming service be available?**
-
-I plan to add at least one integration this year, but for now, I want to refine the current product. I don’t know yet which one will be next, but I’m considering Tidal and Apple Music. I will prepare a survey to gather the opinions of Yotuna app users and make a decision based on that.
-
 ---
 
 # Available Internet Radio Stations
@@ -113,4 +102,5 @@ This is part of our mission.
 We created the Yotuna app with internet radio enthusiasts in mind, who want to have access to their favorite radio stations in one place.
 Our goal is to provide users with a simple and intuitive tool for discovering and listening to music from around the world.
 To start, we added integration with the Deezer service to allow users to enjoy their favorite tracks and artists in the best (lossless) quality.
+Now, services such as Tidal, Spotify, and Apple Music are also available.
 We will also be very pleased if, thanks to our app, you discover interesting internet radio stations and support them.
