@@ -84,7 +84,7 @@ We may update this policy from time to time to reflect changes in the app or leg
 # 8. Contact
 
 If you have questions about this privacy policy or how Yotuna processes data, contact us at:  
-**Email**: yotuna@mobulum.com  
-**Discord**: Join our Discord server – the link is available in the app!
+**Email**: yotuna@mobulum.com
+**Discord**: Join our [Discord](https://discord.gg/mrGKWMSTs2) server!
 
 We are here to answer your questions and ensure your peace of mind while using Yotuna!
